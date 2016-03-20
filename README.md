@@ -1,5 +1,5 @@
 
-### Installation
+### Installation (Linux)
 
 **cd** into `~/.textadept/modules` folder and `git clone` this repo.
 
