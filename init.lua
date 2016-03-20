@@ -15,6 +15,5 @@ if type(snippets) == 'table' then
     ['if'] = 'if %1(x):\n\t%2(y)',
     ['elif'] = 'elif %1(x):\n\t%2(y)',
     ['else'] = 'else:\n\t%1(z)',
-    
   }
 end
