@@ -53,5 +53,8 @@ if type(snippets) == 'table' then
     ['seq'] = '%1(x):seq[%2(type)]',
     -- PRINT ARRAY
     ['pa'] = 'for v in %1(name):\n\techo(v)',
+    ['v'] = 'var\n\t%1(stuff)',
+    ['c'] = 'const\n\t%1(stuff)',
+    ['l'] = 'let\n\t%1(stuff)',
   }
 end
